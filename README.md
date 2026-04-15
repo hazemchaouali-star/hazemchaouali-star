@@ -56,7 +56,8 @@ Here are some of my projects:
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your-email@example.com  
+- 📧 Email: hazem.chaouali@polytechnicien.tn
+- 
 - 💼 LinkedIn: your-linkedin  
 - 🌐 Portfolio: your-website  
 
