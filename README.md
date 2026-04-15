@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MF
+# 👋 Hi, I'm hazem chawali
 
 🎯 Passionate Developer | Problem Solver | Tech Enthusiast  
 
